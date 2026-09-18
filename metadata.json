@@ -1,0 +1,6 @@
+{
+  "name": "Marhaba Hotel",
+  "description": "Official website for Marhaba Hotel in Rawalpindi, Pakistan. Explore luxury rooms, facilities, gallery, and contact information.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
